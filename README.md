@@ -346,4 +346,4 @@ and to the past maintainers
 
 The *Concurrent Ruby* [logo](https://github.com/ruby-concurrency/concurrent-ruby/wiki/Logo) was
 designed by [David Jones](https://twitter.com/zombyboy). It is Copyright &copy; 2014 
-[Jerry D'Antonio](https://twitter.com/jerrydantonio). All Rights Reserved.
+[Jerry D'Antonio](https://twitter.com/jerrydantonio). All Rights Reserved. 
